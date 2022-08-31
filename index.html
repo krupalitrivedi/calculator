@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>Calculator</title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles.css">
+    </head>
+    
+    <body>
+        <form name="Calculator" class="calculator">
+            <table border="2" align="center">
+                <tr class="calrow" align="center">
+                    <td colspan="4">
+                        <input type="text" name="input" size="25" id="calculate" id="ip">
+                    </td>
+                </tr>
+                <tr class="calrow" align="center">
+                    <td>
+                        <input type="button" value="9" name="b9" onclick="disp('9')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="8" name="b8" onclick="disp('8')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="7" name="b7" onclick="disp('7')" class="keys">
+                    
+                    </td>
+                    <td>
+                        <input type="button" value="+" name="pls" onclick="disp('+')" class="keys">
+
+                    </td>
+                </tr>
+                <tr class="calrow" align="center">
+                    <td>
+                        <input type="button" value="6" name="b6" onclick="disp('6')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="5" name="b5" onclick="disp('5')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="4" name="b4" onclick="disp('4')" class="keys">
+                    
+                    </td>
+                    <td>
+                        <input type="button" value="-" name="mns" onclick="disp('-')" class="keys">
+
+                    </td>
+                </tr>
+                <tr class="calrow" align="center">
+                    <td>
+                        <input type="button" value="3" name="b3" onclick="disp('3')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="2" name="b2" onclick="disp('2')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="1" name="b1" onclick="disp('1')" class="keys">
+                    
+                    </td>
+                    <td>
+                        <input type="button" value="/" name="dv" onclick="disp('/')" class="keys">
+
+                    </td>
+                </tr>
+                <tr class="calrow" align="center">
+                    <td>
+                        <input type="button" value="c" name="clr" onclick="clr()" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="0" name="b0" onclick="disp('0')" class="keys">
+                    </td>
+                    <td>
+                        <input type="button" value="=" name="eql" onclick="evaluate()">
+                    
+                    </td>
+                    <td>
+                        <input type="button" value="*" name="mul" onclick="disp('*')" class="keys">
+
+                    </td>
+                </tr>
+            </table>
+
+        </form>
+
+       
+        
+        <script src="fun.js></script>
+    </body>
+</html>
+</html>

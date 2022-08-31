@@ -1,0 +1,24 @@
+table{
+  background-image: url(https://p.favim.com/orig/2018/07/21/soft-pastel-soft-bambi-aesthetic-Favim.com-6074902.jpg);
+    border: 2px solid black;
+}
+tr{
+border: 2px solid black;
+}
+td{
+border: 2px solid black;
+}
+input[type="button"]{
+width: 100%;
+background-color: rgb(255, 255, 255, 0.1);
+font-size: 24px;
+padding: 10px 40px;
+border: none;
+}
+input[type="text"]{
+
+width: 90%;
+padding: 10px 19px;
+background-color: rgb(255, 255, 255, 0.1);
+border:none;
+}
