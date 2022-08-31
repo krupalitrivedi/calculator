@@ -10,7 +10,7 @@ function evaluate(){
 
     let x = document.getElementById('ip').value
 
-    let y = eval(x);
+    let y = evaluate(x);
 
     document.getElementById('ip').value = y
 
