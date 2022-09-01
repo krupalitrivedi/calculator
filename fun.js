@@ -1,4 +1,4 @@
-function disp(val){
+function disp(val) {
 
     document.getElementById('ip').value += val;
 
@@ -6,18 +6,13 @@ function disp(val){
 
 }
 
-function evaluate(){
+function ev() {
 
-    let x = document.getElementById('ip').value
+    let y = eval(document.getElementById('ip').value);
 
-    let y = evaluate(x);
+    document.getElementById('ip').value = y;
 
-    document.getElementById('ip').value = y
+}
 
-    return y
-
-}  
-
- function clr() {
-            document.getElementById("ip").value = ""
-        }
+function clrscr() {
+    document.getElementById("ip").value = "";
