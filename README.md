@@ -3,6 +3,11 @@
 - This is basic **calculator** coded with HTML, CSS and Javascript basics
 - It is an ideal project for beginners
 
+**Picture of the Output:**
+
+![Calc-Output](https://user-images.githubusercontent.com/99717469/187997836-b67f6ef7-5d0d-476f-9a18-9f610bfbbd87.png)
+
+
 ## Running the Project:
 **For using in on local machine, download the files with following steps**
  1. Go to the repository
