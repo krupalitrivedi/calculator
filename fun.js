@@ -16,3 +16,4 @@ function ev() {
 
 function clrscr() {
     document.getElementById("ip").value = "";
+}
