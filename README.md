@@ -1,7 +1,7 @@
 # Calculator
 
 - This is basic **calculator** coded with HTML, CSS and Javascript basics
-- It is an ideal project for beginners
+- It is an ideal project for beginners 
 
 **Picture of the Output:**
 
@@ -16,7 +16,7 @@
  4. Select `Download zip`
  5. Unzip and run them in your editor
  
-Alternativdly, you can use the [Codepen](https://codepen.io/krupalitrivedi/pen/Yzamwjz) link to see the project without downloading the files.
+Alternatively, you can use the [Codepen](https://codepen.io/krupalitrivedi/pen/Yzamwjz) link to see the project without downloading the files.
 
 ## Features to be added:
 - Getting Result when "Enter" key is pressed
