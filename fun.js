@@ -2,8 +2,6 @@ function disp(val) {
 
     document.getElementById('ip').value += val;
 
-    return val;
-
 }
 
 function ev() {
