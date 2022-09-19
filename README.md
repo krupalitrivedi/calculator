@@ -3,9 +3,14 @@
 - This is basic **calculator** coded with HTML, CSS and Javascript basics
 - It is an ideal project for beginners 
 
-**Picture of the Output:**
+<h2>The Output</h2>
 
-![Calc-Output](https://user-images.githubusercontent.com/99717469/187997836-b67f6ef7-5d0d-476f-9a18-9f610bfbbd87.png)
+<p align="center">
+
+
+<img src="https://user-images.githubusercontent.com/99717469/187997836-b67f6ef7-5d0d-476f-9a18-9f610bfbbd87.png">
+
+<p>
 
 
 ## Running the Project:
@@ -26,3 +31,4 @@ Alternatively, you can use the [Codepen](https://codepen.io/krupalitrivedi/pen/Y
 
 The project was made for a school assignment, resources used as well as the mistakes made while building the project will be shared soon on a blog post!
 
+**Coontribution guidlines will be added soon :)
