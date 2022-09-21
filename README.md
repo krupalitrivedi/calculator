@@ -3,7 +3,7 @@
 - This is basic **calculator** coded with HTML, CSS and Javascript basics
 - It is an ideal project for beginners 
 
-<h2>The Output</h2>
+<h2>The Output</h2> 
 
 <p align="center">
 
@@ -16,7 +16,7 @@
 ## Running the Project:
 **For using in on local machine, download the files with following steps**
  1. Go to the repository
- 2. Find the button that says `code`
+ 2. Find the button - `code`
  3. Click on the `arrow-down`
  4. Select `Download zip`
  5. Unzip and run them in your editor
