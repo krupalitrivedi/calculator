@@ -1,7 +1,7 @@
 # Calculator
 
-- This is basic **calculator** coded with HTML, CSS and Javascript basics
-- It is an ideal project for beginners 
+### This is basic **calculator** coded with HTML, CSS and Javascript basics
+#### It is an ideal project for beginners 
 
 <h2>The Output</h2> 
 
