@@ -21,6 +21,20 @@
  4. Select `Download zip`
  5. Unzip and run them in your editor
  
+ ## Cloning the Project
+ **Make sure you have installed git in your machine**
+ 
+  <img src='https://www.tutorialexample.com/wp-content/uploads/2021/07/clone-a-project-source-code-using-gitlab.png'>
+ <ul>
+  <li>Click on the green colored button "Code" </li>
+<li>Copy the url</>
+ <li>Open command prompt in your local machine</li>
+ <li>Run the following command <br>
+<b> git clone https://github.com/krupalitrivedi/calculator.git</b></li>
+  <li>Once the cloning is complete, you can open this project in your editor</li>
+  </ul>
+ 
+  
 Alternatively, you can use the [Codepen](https://codepen.io/krupalitrivedi/pen/Yzamwjz) link to see the project without downloading the files.
 
 ## Features to be added:
